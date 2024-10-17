@@ -1,4 +1,10 @@
-
+## Quick build steps
+```
+dart pub global activate derry
+flutter pub get
+derry generate all
+derry launch dev
+```
 
 <img align="left" src="flutter_template_github.svg" width="480" height="440" />
 
